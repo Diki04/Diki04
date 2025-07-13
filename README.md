@@ -7,7 +7,7 @@
 </p>
 
 <h1 align="center">Hi 👋, I'm Rizkillah Ramanda Sinyo</h1>
-<h3 align="center">A Software Developer from Indonesia 🇮🇩</h3>
+<h3 align="center">A Fullstack Developer from Indonesia 🇮🇩</h3>
 
 <p align="center">
   <a href="https://github.com/readme-typing-svg">
@@ -22,7 +22,7 @@
 - 🔭 I’m currently studying on **University Of Riau**.
 - 🌱 I’m currently learning **Golang**.
 - 👯 I’m looking to collaborate on **Big Project**.
-- 💬 Ask me about **React, Node.js, Golang**.
+- 💬 Ask me about **React, Node.js, Next Js**.
 - 📫 How to reach me: **rizkillah.ramanda.project@gmail.com**.
 - ⚡ Fun fact: **I'm a taller guy [180cm]**.
 
