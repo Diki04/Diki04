@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Diki04/Diki04/main/banner-profil.png" alt="Profile Banner">
+  <img src="https://github.com/Diki04/Diki04/blob/main/banner-profile.png?raw=true" alt="Profile Banner">
 </p>
 
 <p align="center">
