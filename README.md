@@ -34,15 +34,15 @@ Here are a few technologies I've been working with recently:
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vue,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,py,django,go,php,laravel" />
+    <img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
   </a>
   <br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,docker,git,figma" />
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,docker,git,figma" />
   </a>
 </p>
 
